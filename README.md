@@ -29,7 +29,7 @@ The data for all the Formula 1 races from 1950s onwards is obtained from an open
 The solution used in this project is based on the ["Modern analytics architecture with Azure Databricks"](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture) from the Azure Architecture Center:
 
 <p align="center">
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/azure-databricks-modern-analytics-architecture-diagram.png" width="70%" height="70%" />
+  <img src="https://media.licdn.com/dms/image/D5622AQHe7WEfSuJkMg/feedshare-shrink_2048_1536/0/1699622843626?e=1704326400&v=beta&t=D_aOqtQrfRx0-bi3bQYM8MSG9SGYbPQh5dO1ufFzpVo" width="70%" height="70%" />
 </p>
 
 
